@@ -51,6 +51,7 @@ Estou sempre em busca de aprender, evoluir e construir soluções que fazem a di
 <br/>
 <br/>
 
-### 📊 Estatísticas
+
+
 
 
