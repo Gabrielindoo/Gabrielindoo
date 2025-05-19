@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Morales
 
-**`Desenvolvedora Front-end**
+**Desenvolvedora Front-end**
 
 👋 Olá! Me chamo Gabriel Morales, tenho 20 anos e sou do Rio Grande do Sul.
 Atualmente curso Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia, programação e inovação.
